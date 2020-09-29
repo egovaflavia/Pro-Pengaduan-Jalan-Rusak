@@ -1,0 +1,10 @@
+<?php
+$nil1=0.12;
+$nil2=0.27;
+$nil3=0.37;
+$nil4=0.42;
+$nil5=0.61;
+$kriteria1=0.37;
+$kriteria2=0.107;
+$kriteria3=0.27;
+?>
